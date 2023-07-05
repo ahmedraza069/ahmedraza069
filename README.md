@@ -10,7 +10,6 @@ Skills:  REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on Creative IT Institue
 - 🌱 I’m currently Programing Hero Course 
-- 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on Github 
 - 🤔 I’m looking for help with Anything 
 - 💬 Ask me about web Development 
