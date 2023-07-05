@@ -16,10 +16,3 @@ Skills:  REACT / JS / HTML / CSS
 
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ahmedraza069)  
-
-![GitHub metrics](https://metrics.lecoq.io/ahmedraza069)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ahmedraza069)  
-
-![Profile views](https://gpvc.arturio.dev/ahmedraza069)  
