@@ -43,9 +43,6 @@ I'm a Junior Web developer who is passionate about making error free websites wi
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Raza"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Raza" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedraza069&show_icons=true&locale=en&layout=compact" alt="ahmedraza069" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedraza069&show_icons=true&locale=en" alt="ahmedraza069" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedraza069&" alt="ahmedraza069" /></p>
 
