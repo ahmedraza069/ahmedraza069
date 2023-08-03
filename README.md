@@ -43,7 +43,15 @@ I'm a Junior Web developer who is passionate about making error free websites wi
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Raza"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Raza" /></a></p><br><br>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ahmedraza069&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedraza069&theme=darcula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedraza069&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=ahmedraza069&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 [![](https://raw.githubusercontent.com/ahmedraza069/Md.-Rakibul-Hasan-Raza/master/profile-summary-card-output/codeSTACKr/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ahmedraza069/Md.-Rakibul-Hasan-Raza/master/profile-summary-card-output/codeSTACKr/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ahmedraza069/Md.-Rakibul-Hasan-Raza/master/profile-summary-card-output/codeSTACKr/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
