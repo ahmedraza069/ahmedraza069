@@ -44,8 +44,6 @@ I'm a Junior Web developer who is passionate about making error free websites wi
 <p><a href="https://www.buymeacoffee.com/Raza"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Raza" /></a></p><br><br>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedraza069&" alt="ahmedraza069" /></p>
-
 
 [![](https://raw.githubusercontent.com/ahmedraza069/Md.-Rakibul-Hasan-Raza/master/profile-summary-card-output/codeSTACKr/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/ahmedraza069/Md.-Rakibul-Hasan-Raza/master/profile-summary-card-output/codeSTACKr/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/ahmedraza069/Md.-Rakibul-Hasan-Raza/master/profile-summary-card-output/codeSTACKr/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
