@@ -45,6 +45,16 @@ I am an aspiring Front-End Developer with a solid foundation in HTML, CSS, and J
   </a>
 </p>
 
+# 📊 My GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ahmedraza069&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedraza069&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedraza069&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 My GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ahmedraza069&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Raza"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Raza" /></a></p><br><br>
 
