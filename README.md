@@ -43,7 +43,7 @@ I am an aspiring Front-End Developer with a solid foundation in HTML, CSS, and J
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap,tailwind,jquery,react,firebase,figma,express,mongodb,nodejs,git,github" />
   </a>
 </p>
 
