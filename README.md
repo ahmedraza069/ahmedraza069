@@ -48,6 +48,7 @@ I am an aspiring Front-End Developer with a solid foundation in HTML, CSS, and J
 # 📊 My GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedraza069&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedraza069&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmedraza069&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedraza069&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmedraza069&theme=radical&utcOffset=8)
 
