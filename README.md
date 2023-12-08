@@ -1,4 +1,6 @@
 [![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif)]
+<img src="https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif" alt="Profile Banner" style="width: 100%;">
+
 <h1 align="center">Hi 👋, I'm Md. Rakibul Hasan Raza</h1>
 <h3 align="center">A passionate Front End Developer from Bangladesh</h3>
 
