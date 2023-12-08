@@ -46,12 +46,18 @@ I am an aspiring Front-End Developer with a solid foundation in HTML, CSS, and J
 </p>
 
 # 📊 My GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ahmedraza069&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedraza069&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedraza069&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=ahmedraza069&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ahmedraza069&theme=shades-of-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedraza069&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ## 🏆 My GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ahmedraza069&theme=dark_dimmed&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=ahmedraza069&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ahmedraza069&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
