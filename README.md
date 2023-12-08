@@ -1,8 +1,9 @@
 [![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif)]
 <h1 align="center">Hi 👋, I'm Md. Rakibul Hasan Raza</h1>
-<h3 align="center">A passionate junior web developer from Bangladesh</h3>
+<h3 align="center">A passionate Front End Developer from Bangladesh</h3>
 
-I'm a Junior Web developer who is passionate about making error free websites with 100% client satisfaction. have a passion for learning and sharing my knowledge with others as publicly as possible. love to solve real-world problems. I am strategic goal oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients pride myself on doing quality work and maintain excellent communication. Most of the time work with HTML,CSS and Bootstrap but some technologies I enjoy working with include React's Javastript as well as PHP.
+
+I am an aspiring Front-End Developer with a solid foundation in HTML, CSS, and JavaScript. Through academic training and hands-on projects, I've cultivated the skills to create visually appealing and user-friendly websites. Eager to apply my knowledge in a professional setting, I bring a fresh perspective and a commitment to staying current with industry trends. I am excited about the opportunity to contribute to innovative projects and further develop my skills in a collaborative team environment.
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
