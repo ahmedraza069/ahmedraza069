@@ -49,7 +49,7 @@ I am an aspiring Front-End Developer with a solid foundation in HTML, CSS, and J
 
 | Project   | Purpose  | Status    | Live Site                       |
 | :---      | :---     | :---      | :---                            |
-| Express Time News Hub  | We provide timely, reliable news on a user-friendly platform, engaging our audience with high-quality journalism. Stay informed and explore diverse topics through our commitment to excellence in reporting | Completed   | [view](https://express-times-newspapers.web.app) |
+| Express Time News Hub  | We provide timely, reliable news on a user-friendly platform, engaging our audience with high-quality journalism. Stay informed and explore diverse topics through our commitment to excellence in reporting | Completed   | [https://express-times-newspapers.web.app](https://express-times-newspapers.web.app) |
 | Project2  | Purpose2 | Completed | [Link2](https://www.example2.com) |
 | Project3  | Purpose3 | Planned   | [Link3](https://www.example3.com) |
 
