@@ -47,11 +47,14 @@ I am an aspiring Front-End Developer with a solid foundation in HTML, CSS, and J
   </a>
 </p>
 
+<h3 align="left">Latest Projects:</h3>
+
 | Project   | Purpose  | Status    | Live Site                       |
 | :---      | :---     | :---      | :---                            |
 | Express Time News Hub  | We provide timely, reliable news on a user-friendly platform, engaging our audience with high-quality journalism. Stay informed and explore diverse topics through our commitment to excellence in reporting | Completed   | [https://express-times-newspapers.web.app](https://express-times-newspapers.web.app) |
-| Project2  | Purpose2 | Completed | [Link2](https://www.example2.com) |
-| Project3  | Purpose3 | Planned   | [Link3](https://www.example3.com) |
+| Explore Local Tours & Guide  | The purpose of the Explore Local Tour & Guide project is to provide a platform that connects tourists with local guides, offering a personalized and authentic experience of the destination. The website aims to enhance the travel experience by facilitating meaningful interactions between visitors and knowledgeable locals. | Completed | [https://local-tours-and-guide-auth.web.app](https://local-tours-and-guide-auth.web.app) |
+| E-Market Wave  | MarketHub, an innovative e-commerce platform, connects buyers and sellers with a diverse range of products. Our mission is to ensure secure transactions, foster trust, and empower businesses in the digital marketplace. |  Completed  | [https://retail-and-e-commerce-project.web.app/](https://retail-and-e-commerce-project.web.app/) |
+| Personal Website Development  | A portfolio is a dynamic platform showcasing projects, emphasizing skills, and building a personal brand. It serves as a contact point for networking, allowing collaboration discovery. Additionally, it supplements a traditional resume, offering continuous updates on latest work and skills. |  Ongoing  | [https://ahmedraza069.github.io/My-protfolio-/](https://ahmedraza069.github.io/My-protfolio-/) |
 
 
 # 📊 My GitHub Stats:
