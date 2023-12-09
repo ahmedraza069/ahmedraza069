@@ -47,6 +47,13 @@ I am an aspiring Front-End Developer with a solid foundation in HTML, CSS, and J
   </a>
 </p>
 
+| Project   | Purpose  | Status    | Live Site                       |
+| :---      | :---     | :---      | :---                            |
+| Project1  | Purpose1 | Ongoing   | [Link1](https://www.example1.com) |
+| Project2  | Purpose2 | Completed | [Link2](https://www.example2.com) |
+| Project3  | Purpose3 | Planned   | [Link3](https://www.example3.com) |
+
+
 # 📊 My GitHub Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedraza069&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedraza069&theme=radical)
