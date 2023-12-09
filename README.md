@@ -47,7 +47,7 @@ I am an aspiring Front-End Developer with a solid foundation in HTML, CSS, and J
   </a>
 </p>
 
-<h3 align="left">Latest Projects:</h3>
+# 🔭 My Latest Projects:
 
 | Project   | Purpose  | Status    | Live Site                       |
 | :---      | :---     | :---      | :---                            |
