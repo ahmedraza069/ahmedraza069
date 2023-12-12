@@ -23,13 +23,13 @@ I am an aspiring Front-End Developer with a solid foundation in HTML, CSS, and J
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmedraza069?tab=repositories](https://github.com/ahmedraza069?tab=repositories)
 
-- 📝 I regularly write articles on [https://ahmedraza069.github.io/My-protfolio-/](https://ahmedraza069.github.io/My-protfolio-/)
+- 📝 I regularly write articles on [https://my-portfolio-three-ruddy-44.vercel.app/)
 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **rakibulhasanraza@gmail.com**
 
-- 📄 Know about my experiences [https://ahmedraza069.github.io/My-protfolio-/](https://ahmedraza069.github.io/My-protfolio-/)
+- 📄 Know about my experiences [https://my-portfolio-three-ruddy-44.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
