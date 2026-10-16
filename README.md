@@ -1,4 +1,4 @@
-[![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/full-stack-development.gif)]
+[![MasterHead](https://storage.ghost.io/c/fa/4e/fa4e2ca2-663c-4ecf-881c-8bc3979ba16b/content/images/size/w2000/2024/03/web3.gif)]
 
 
 <h1 align="center">Hi 👋, I'm Md. Rakibul Hasan Raza</h1>
