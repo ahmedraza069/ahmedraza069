@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Rakibul Hasan Raza</h1>
-<h3 align="<h1 align="center">Hi 👋, I'm Md. Rakibul Hasan Raza</h1>">Front-End Developer (React) & Wix Specialist @ Softvence Agency | B.Sc. in CSE</h3>
+<h3 align="<h1 align="center"><h1>Hi 👋, I'm Md. Rakibul Hasan Raza</h1>">Front-End Developer (React) & Wix Specialist @ Softvence Agency | B.Sc. in CSE</h3>
 
 <p align="justify">
 I am a passionate Front-End Developer and Wix Specialist from Bangladesh with strong expertise in <b>React.js, Wix Studio, Wix Classic, Wix Harmony, and Wix Full Custom Projects (Velo)</b>. Alongside modern front-end development, I build scalable full-stack web applications using <b>NestJS, PostgreSQL, Prisma ORM, and Redis</b>. Dedicated to crafting high-converting, visually appealing, and user-friendly digital experiences, I thrive on solving complex problems and delivering production-ready solutions in collaborative team environments.
