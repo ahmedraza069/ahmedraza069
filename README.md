@@ -9,9 +9,7 @@
 I am a passionate <b>Wix Specialist</b> and <b>AI-Powered Front-End Developer</b> from Bangladesh with deep expertise in <b>Wix Studio, Wix Classic, Wix Harmony, and Wix Full Custom Projects (Velo)</b>. As an <b>AI Expert</b> in web development workflows, I leverage advanced AI tools and prompt engineering to architect, code, and deploy complex, full-scale custom projects with speed and precision. Alongside my core expertise, I am actively learning and exploring <b>Next.js, React.js, and modern Full-Stack technologies</b> to continuously expand my development capabilities.
 </p>
 
-<img align="right" alt="Coding" width="380" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-
-<p align="left">
+<p align="justify">
   <img src="https://komarev.com/ghpvc/?username=ahmedraza069&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ahmedraza069" />
   <a href="https://twitter.com/ahmedraza_069" target="_blank">
     <img src="https://img.shields.io/twitter/follow/ahmedraza_069?logo=twitter&style=for-the-badge" alt="ahmedraza_069" />
