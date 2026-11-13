@@ -95,6 +95,8 @@ I am a passionate <b>Wix Specialist</b> and <b>AI-Powered Front-End Developer</b
 
 ## 🏆 My GitHub Trophies & Milestones:
 
+![](https://github-profile-trophy.vercel.app/?username=ahmedraza069&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+
 <table width="100%">
   <tr align="left">
     <td width="20%">
