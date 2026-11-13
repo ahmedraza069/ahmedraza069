@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://storage.ghost.io/c/fa/4e/fa4e2ca2-663c-4ecf-881c-8bc3979ba16b/content/images/size/w2000/2024/03/web3.gif" width="100%" alt="MasterHead">
+<video width="100%" autoplay loop muted playsinline>
+  <source src="https://video.wixstatic.com/video/5e2951_00467da6f5bf41a397fffc24ad6f5bd4/1080p/mp4/file.mp4" type="video/mp4">
+</video>
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Rakibul Hasan Raza</h1>
