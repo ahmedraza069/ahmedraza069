@@ -75,13 +75,13 @@ I am a passionate Front-End Developer and Wix Specialist from Bangladesh with st
 </div>
 
 <div align="center">
-  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedraza069&theme=radical" alt="Top Languages by Repo" />
-  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmedraza069&theme=radical" alt="Top Languages by Commit" />
+  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedraza069&theme=radical" alt="Top Languages by Repo" />
+  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmedraza069&theme=radical" alt="Top Languages by Commit" />
 </div>
 
 <div align="center">
-  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedraza069&theme=radical" alt="Stats" />
-  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmedraza069&theme=radical&utcOffset=6" alt="Productive Time" />
+  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedraza069&theme=radical" alt="Stats" />
+  <img width="24%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmedraza069&theme=radical&utcOffset=6" alt="Productive Time" />
 </div>
 
 <div align="center">
