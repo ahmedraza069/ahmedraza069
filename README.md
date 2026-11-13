@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Rakibul Hasan Raza</h1>
-<h3 align="center">Wix Specialist, AI-Driven Developer & Front-End Executive @ Softvence Agency | B.Sc. in CSE</h3>
+<h3 align="justify">Wix Specialist, AI-Driven Developer & Front-End Executive @ Softvence Agency | B.Sc. in CSE</h3>
 
 <p align="justify">
 I am a passionate <b>Wix Specialist</b> and <b>AI-Powered Front-End Developer</b> from Bangladesh with deep expertise in <b>Wix Studio, Wix Classic, Wix Harmony, and Wix Full Custom Projects (Velo)</b>. As an <b>AI Expert</b> in web development workflows, I leverage advanced AI tools and prompt engineering to architect, code, and deploy complex, full-scale custom projects with speed and precision. Alongside my core expertise, I am actively learning and exploring <b>Next.js, React.js, and modern Full-Stack technologies</b> to continuously expand my development capabilities.
