@@ -2,8 +2,8 @@
   <img src="https://storage.ghost.io/c/fa/4e/fa4e2ca2-663c-4ecf-881c-8bc3979ba16b/content/images/size/w2000/2024/03/web3.gif" width="100%" alt="MasterHead">
 </p>
 
-<h1 align="center">Hi 👋, I'm Md. Rakibul Hasan Raza</h1>
-<h3 align="center">Front-End Developer (React) & Wix Specialist @ Softvence Agency | B.Sc. in CSE</h3>
+<h1 align="justify">Hi 👋, I'm Md. Rakibul Hasan Raza</h1>
+<h3 align="<h1 align="justify">Hi 👋, I'm Md. Rakibul Hasan Raza</h1>">Front-End Developer (React) & Wix Specialist @ Softvence Agency | B.Sc. in CSE</h3>
 
 <p align="justify">
 I am a passionate Front-End Developer and Wix Specialist from Bangladesh with strong expertise in <b>React.js, Wix Studio, Wix Classic, Wix Harmony, and Wix Full Custom Projects (Velo)</b>. Alongside modern front-end development, I build scalable full-stack web applications using <b>NestJS, PostgreSQL, Prisma ORM, and Redis</b>. Dedicated to crafting high-converting, visually appealing, and user-friendly digital experiences, I thrive on solving complex problems and delivering production-ready solutions in collaborative team environments.
@@ -71,7 +71,7 @@ I am a passionate Front-End Developer and Wix Specialist from Bangladesh with st
 ## 📊 My GitHub Stats:
 
 <div align="center">
-  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedraza069&theme=radical" alt="Profile Details" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedraza069&theme=radical" alt="Profile Details" />
 </div>
 
 <div align="center">
@@ -85,7 +85,7 @@ I am a passionate Front-End Developer and Wix Specialist from Bangladesh with st
 </div>
 
 <div align="center">
-  <img width="700" src="https://streak-stats.demolab.com?user=ahmedraza069&theme=radical&hide_border=true&card_width=700" alt="GitHub Streak" />
+  <img width="100%" src="https://streak-stats.demolab.com?user=ahmedraza069&theme=radical&hide_border=true&card_width=700" alt="GitHub Streak" />
 </div>
 
 ---
