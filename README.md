@@ -3,10 +3,10 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Rakibul Hasan Raza</h1>
-<h3 align="center">Front-End Developer (React) & Wix Specialist @ Softvence Agency | B.Sc. in CSE</h3>
+<h3 align="center">Wix Specialist, AI-Driven Developer & Front-End Executive @ Softvence Agency | B.Sc. in CSE</h3>
 
 <p align="justify">
-I am a passionate Front-End Developer and Wix Specialist from Bangladesh with strong expertise in <b>React.js, Wix Studio, Wix Classic, Wix Harmony, and Wix Full Custom Projects (Velo)</b>. Alongside modern front-end development, I build scalable full-stack web applications using <b>NestJS, PostgreSQL, Prisma ORM, and Redis</b>. Dedicated to crafting high-converting, visually appealing, and user-friendly digital experiences, I thrive on solving complex problems and delivering production-ready solutions in collaborative team environments.
+I am a passionate <b>Wix Specialist</b> and <b>AI-Powered Front-End Developer</b> from Bangladesh with deep expertise in <b>Wix Studio, Wix Classic, Wix Harmony, and Wix Full Custom Projects (Velo)</b>. As an <b>AI Expert</b> in web development workflows, I leverage advanced AI tools and prompt engineering to architect, code, and deploy complex, full-scale custom projects with speed and precision. Alongside my core expertise, I am actively learning and exploring <b>Next.js, React.js, and modern Full-Stack technologies</b> to continuously expand my development capabilities.
 </p>
 
 <img align="right" alt="Coding" width="380" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
@@ -20,11 +20,12 @@ I am a passionate Front-End Developer and Wix Specialist from Bangladesh with st
 
 - 🏢 Working as **Executive, Wix & Front-End Developer at Softvence Agency**
 - 🎓 **B.Sc. in CSE** (University of South Asia) & **Diploma in CSE** (Kishoreganj Polytechnic Institute)
-- 🎨 Specialized in **Wix Classic, Wix Studio, Wix Harmony & Wix Full Custom Projects (Velo)**
-- 🌱 Skilled in **React.js, Redux Toolkit, Tailwind CSS, NestJS, PostgreSQL, Prisma & Redis**
+- 🎨 **Wix Expert:** Specialized in **Wix Classic, Wix Studio, Wix Harmony & Wix Full Custom Projects (Velo)**
+- 🤖 **AI Expert:** Building complete custom web applications, Velo logic & UI systems using **AI-Driven Development**
+- 🌱 **Currently Learning & Refreshing:** **Next.js, React.js, Redux Toolkit & Full-Stack Web Technologies**
 - 👨‍💻 All of my projects are available at [GitHub Repositories](https://github.com/ahmedraza069?tab=repositories)
 - 🌐 Portfolio & Experiences: [my-portfolio-three-ruddy-44.vercel.app](https://my-portfolio-three-ruddy-44.vercel.app/)
-- 💬 Ask me about **Wix Studio, Wix Velo, React.js & Full-Stack Development**
+- 💬 Ask me about **Wix Studio, Wix Velo, AI-Powered Web Development & Custom Front-End Design**
 - 📫 Reach me at **rakibulhasanraza@gmail.com**
 
 <br clear="both"/>
@@ -40,18 +41,20 @@ I am a passionate Front-End Developer and Wix Specialist from Bangladesh with st
   <a href="https://instagram.com/ahmedraza_069" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmedraza_069" height="30" width="40" /></a>
 </p>
 
-### 🎨 Wix Expertise:
+### 🎨 Wix & AI Expertise:
 <p align="left">
   <img src="https://img.shields.io/badge/Wix_Classic-0C6EFC?style=for-the-badge&logo=wix&logoColor=white" alt="Wix Classic" />
   <img src="https://img.shields.io/badge/Wix_Studio-000000?style=for-the-badge&logo=wix&logoColor=white" alt="Wix Studio" />
   <img src="https://img.shields.io/badge/Wix_Harmony-B98A20?style=for-the-badge&logo=wix&logoColor=white" alt="Wix Harmony" />
   <img src="https://img.shields.io/badge/Wix_Full_Custom_Project_(Velo)-162D3D?style=for-the-badge&logo=wix&logoColor=white" alt="Wix Full Custom Project" />
+  <img src="https://img.shields.io/badge/AI_Driven_Development-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="AI Expert" />
+  <img src="https://img.shields.io/badge/AI_Prompt_Engineering-6E40C9?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="Prompt Engineering" />
 </p>
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages, Tools & Learning Stack:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,bootstrap,tailwind,jquery,react,redux,nestjs,nodejs,express,postgres,mongodb,prisma,redis,firebase,docker,figma,git,github&perline=11" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,bootstrap,tailwind,react,nextjs,redux,nodejs,express,nestjs,mongodb,postgres,prisma,firebase,figma,git,github&perline=10" alt="Skills" />
   </a>
 </p>
 
@@ -61,10 +64,10 @@ I am a passionate Front-End Developer and Wix Specialist from Bangladesh with st
 
 | Project | Purpose | Status | Live Site |
 | :--- | :--- | :--- | :--- |
-| **Wix Full Custom Projects** | Enterprise websites, custom CMS collections, dynamic dataset filtering, and custom Velo integrations built across Wix Studio, Wix Classic, and Wix Harmony. | Completed | *Client Projects* |
-| **OREBI** | A scalable full-stack e-commerce platform built with React, Redux Toolkit, Tailwind CSS, NestJS, PostgreSQL, Prisma ORM, and Redis featuring real-time notifications and Stripe integration. | Ongoing | *Link Adding Soon* |
-| **MealMetric** | An automated dining and mess expense management web application designed to simplify daily meal tracking and dynamic cost calculations. | Completed | *Link Adding Soon* |
-| **Personal Portfolio Website** | A dynamic portfolio showcasing my professional web development projects, technical skills, and career journey. | Completed | [Live Portfolio](https://my-portfolio-three-ruddy-44.vercel.app/) |
+| **Wix Full Custom Projects** | Enterprise websites, custom CMS collections, dynamic dataset filtering, and AI-powered Velo integrations built across Wix Studio, Wix Classic, and Wix Harmony. | Completed | *Client Projects* |
+| **OREBI** | Full-stack e-commerce platform built while exploring React, Next.js concepts, Redux Toolkit, Tailwind CSS, and modern backend architecture. | Ongoing | *Link Adding Soon* |
+| **MealMetric** | An automated dining and mess expense management web application built with AI-assisted workflows for dynamic cost calculations. | Completed | *Link Adding Soon* |
+| **Personal Portfolio Website** | A dynamic portfolio showcasing my professional web development projects, Wix expertise, and career journey. | Completed | [Live Portfolio](https://my-portfolio-three-ruddy-44.vercel.app/) |
 
 ---
 
@@ -93,12 +96,32 @@ I am a passionate Front-End Developer and Wix Specialist from Bangladesh with st
 ## 🏆 My GitHub Trophies & Milestones:
 
 <table width="100%">
-  <tr align="center">
-    <td><b>🏆 Repositories</b><br/><br/><img src="https://img.shields.io/badge/100%2B_Repos-S_Rank-fe428e?style=for-the-badge&labelColor=141321" alt="Repos Trophy"/></td>
-    <td><b>🔥 Contributions</b><br/><br/><img src="https://img.shields.io/badge/460%2B_Total-A_Rank-f8d847?style=for-the-badge&labelColor=141321" alt="Contributions Trophy"/></td>
-    <td><b>⚡ Commits</b><br/><br/><img src="https://img.shields.io/badge/300%2B_Commits-A_Rank-a9fef7?style=for-the-badge&labelColor=141321" alt="Commits Trophy"/></td>
-    <td><b>⭐ Stars Earned</b><br/><br/><img src="https://img.shields.io/badge/39%2B_Stars-B_Rank-fe428e?style=for-the-badge&labelColor=141321" alt="Stars Trophy"/></td>
-    <td><b>🎖️ Experience</b><br/><br/><img src="https://img.shields.io/badge/4%2B_Years-Veteran-f8d847?style=for-the-badge&labelColor=141321" alt="Experience Trophy"/></td>
+  <tr align="left">
+    <td width="20%">
+      <b>🏆 Repositories</b><br/><br/>
+      <img src="https://img.shields.io/badge/100%2B_Repos-S_Rank-fe428e?style=for-the-badge&labelColor=141321" alt="Repos Trophy"/><br/>
+      <img src="https://img.shields.io/badge/Progress-██████████_100%25-fe428e?style=flat-square&labelColor=141321" alt="Repos Chart"/>
+    </td>
+    <td width="20%">
+      <b>🔥 Contributions</b><br/><br/>
+      <img src="https://img.shields.io/badge/460%2B_Total-A_Rank-f8d847?style=for-the-badge&labelColor=141321" alt="Contributions Trophy"/><br/>
+      <img src="https://img.shields.io/badge/Activity-█████████░_90%25-f8d847?style=flat-square&labelColor=141321" alt="Contributions Chart"/>
+    </td>
+    <td width="20%">
+      <b>⚡ Commits</b><br/><br/>
+      <img src="https://img.shields.io/badge/300%2B_Commits-A_Rank-a9fef7?style=for-the-badge&labelColor=141321" alt="Commits Trophy"/><br/>
+      <img src="https://img.shields.io/badge/Consistency-████████░_85%25-a9fef7?style=flat-square&labelColor=141321" alt="Commits Chart"/>
+    </td>
+    <td width="20%">
+      <b>⭐ Stars Earned</b><br/><br/>
+      <img src="https://img.shields.io/badge/39%2B_Stars-B_Rank-fe428e?style=for-the-badge&labelColor=141321" alt="Stars Trophy"/><br/>
+      <img src="https://img.shields.io/badge/Impact-███████░░░_75%25-fe428e?style=flat-square&labelColor=141321" alt="Stars Chart"/>
+    </td>
+    <td width="20%">
+      <b>🎖️ Experience</b><br/><br/>
+      <img src="https://img.shields.io/badge/4%2B_Years-Veteran-f8d847?style=for-the-badge&labelColor=141321" alt="Experience Trophy"/><br/>
+      <img src="https://img.shields.io/badge/Mastery-██████████_95%25-f8d847?style=flat-square&labelColor=141321" alt="Experience Chart"/>
+    </td>
   </tr>
 </table>
 
@@ -107,7 +130,7 @@ I am a passionate Front-End Developer and Wix Specialist from Bangladesh with st
 ## ✍️ Quote:
 
 <div align="center">
-  <img width="600" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+  <img width="100%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </div>
 
 ---
