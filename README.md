@@ -1,103 +1,94 @@
-<div align="center">
-  <h1>Hi 👋, I'm Md. Rakibul Hasan Raza</h1>
-  <h3>Front-End Developer (React) & Wix Specialist @ Softvence Agency | B.Sc. in CSE</h3>
-  <p>
-    Passionate Front-End Developer and Wix Expert specializing in <b>Wix Studio, Wix Classic, Wix Harmony, Wix Velo</b>, and modern <b>React.js</b> applications. Focused on building scalable architectures, custom CMS workflows, and high-converting digital experiences.
-  </p>
+<p align="center">
+  <img src="https://storage.ghost.io/c/fa/4e/fa4e2ca2-663c-4ecf-881c-8bc3979ba16b/content/images/size/w2000/2024/03/web3.gif" width="100%" alt="MasterHead">
+</p>
 
-  <p>
-    <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:YOUR_EMAIL@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://YOUR_PORTFOLIO_LINK.com" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-    </a>
-  </p>
-</div>
+<h1 align="center">Hi 👋, I'm Md. Rakibul Hasan Raza</h1>
+<h3 align="center">Front-End Developer (React) & Wix Specialist @ Softvence Agency | B.Sc. in CSE</h3>
 
----
+I am a passionate Front-End Developer and Wix Specialist from Bangladesh with strong expertise in **React.js, Wix Studio, Wix Classic, Wix Harmony, and Wix Full Custom Projects (Velo)**. Alongside modern front-end development, I build scalable full-stack web applications using **NestJS, PostgreSQL, Prisma ORM, and Redis**. Dedicated to crafting high-converting, visually appealing, and user-friendly digital experiences, I thrive on solving complex problems and delivering production-ready solutions in collaborative team environments.
 
-### 👨‍💻 Professional Overview
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-- 💼 Working as an **Executive, Wix & Front-End Developer** at **Softvence Agency**.
-- 🎓 Hold a **B.Sc. in Computer Science & Engineering (CSE)** from the University of South Asia and a **Diploma in CSE** from Kishoreganj Polytechnic Institute.
-- 🎨 Expert in **Wix Studio, Wix Classic, Wix Harmony**, and **Wix Full Custom Projects** using **Velo by Wix**, custom HTML/CSS/JS embeds, and dynamic CMS collections.
-- ⚛️ Skilled in building modern web applications using **React.js, Redux Toolkit, Tailwind CSS, NestJS, Prisma ORM, and PostgreSQL**.
-- 🔭 Currently developing **OREBI**, an enterprise-grade full-stack e-commerce platform.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedraza069&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedraza069" /> </p>
 
----
+<p align="left"> <a href="https://twitter.com/ahmedraza_069" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedraza_069?logo=twitter&style=for-the-badge" alt="ahmedraza_069" /></a> </p>
 
-### 🛠️ Specialized Wix Ecosystem
+- 🏢 I’m currently working as **Executive, Wix & Front-End Developer at Softvence Agency**
 
+- 🎓 Completed **B.Sc. in CSE** (University of South Asia) & **Diploma in CSE** (Kishoreganj Polytechnic Institute)
+
+- 🎨 Specialized in **Wix Classic, Wix Studio, Wix Harmony & Wix Full Custom Projects (Velo)**
+
+- 🔭 I’m currently working on **OREBI (Full-Stack E-Commerce Application)**
+
+- 🌱 Skilled in **React.js, Redux Toolkit, Tailwind CSS, NestJS, PostgreSQL, Prisma & Redis**
+
+- 👯 I’m looking to collaborate on [Github](https://github.com/ahmedraza069)
+
+- 👨‍💻 All of my projects are available at [https://github.com/ahmedraza069?tab=repositories](https://github.com/ahmedraza069?tab=repositories)
+
+- 📝 I regularly write articles on [https://my-portfolio-three-ruddy-44.vercel.app/](https://my-portfolio-three-ruddy-44.vercel.app/)
+
+- 💬 Ask me about **Wix Studio, Wix Velo, React.js & Full-Stack Web Development**
+
+- 📫 How to reach me **rakibulhasanraza@gmail.com**
+
+- 📄 Know about my experiences [https://my-portfolio-three-ruddy-44.vercel.app/](https://my-portfolio-three-ruddy-44.vercel.app/)
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://img.shields.io/badge/Wix_Studio-000000?style=for-the-badge&logo=wix&logoColor=white" alt="Wix Studio" />
+<a href="https://codepen.io/ahmedraza_069" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ahmedraza_069" height="30" width="40" /></a>
+<a href="https://twitter.com/ahmedraza_069" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedraza_069" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-rakibul-hasan-raza-76a2a2260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-rakibul-hasan-raza-76a2a2260" height="30" width="40" /></a>
+<a href="https://fb.com/mind.hack.376" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mind.hack.376" height="30" width="40" /></a>
+<a href="https://instagram.com/ahmedraza_069" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmedraza_069" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Wix Expertise:</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Wix_Classic-0C6EFC?style=for-the-badge&logo=wix&logoColor=white" alt="Wix Classic" />
+  <img src="https://img.shields.io/badge/Wix_Studio-000000?style=for-the-badge&logo=wix&logoColor=white" alt="Wix Studio" />
   <img src="https://img.shields.io/badge/Wix_Harmony-B98A20?style=for-the-badge&logo=wix&logoColor=white" alt="Wix Harmony" />
-  <img src="https://img.shields.io/badge/Wix_Velo_(Custom_Code)-162D3D?style=for-the-badge&logo=wix&logoColor=white" alt="Wix Velo" />
-  <img src="https://img.shields.io/badge/Wix_Custom_CMS_&_APIs-20232A?style=for-the-badge&logo=wix&logoColor=61DAFB" alt="Wix CMS" />
+  <img src="https://img.shields.io/badge/Wix_Full_Custom_Project_(Velo)-162D3D?style=for-the-badge&logo=wix&logoColor=white" alt="Wix Full Custom Project" />
 </p>
 
-### 💻 Tech Stack & Tools
-
-**Frontend Development:**
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,ts,bootstrap,tailwind,jquery,react,redux,nestjs,nodejs,express,postgres,mongodb,prisma,redis,firebase,docker,figma,git,github" />
+  </a>
 </p>
 
-**Backend, Database & DevOps:**
-<p align="left">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+# 🔭 My Latest Projects:
 
----
+| Project | Purpose | Status | Live Site |
+| :--- | :--- | :--- | :--- |
+| **OREBI** | A scalable full-stack e-commerce platform built with React, Redux Toolkit, Tailwind CSS, NestJS, PostgreSQL, Prisma ORM, and Redis with secure checkout and real-time notifications. | Ongoing | *Link Adding Soon* |
+| **Wix Full Custom Projects** | Bespoke enterprise websites, custom CMS architectures, dynamic datasets, and advanced Velo integrations built across Wix Studio, Wix Classic, and Wix Harmony. | Completed | *Client Projects* |
+| **MealMetric** | An automated dining and mess expense management web application designed to simplify daily meal tracking and dynamic cost calculations. | Completed | *Link Adding Soon* |
+| **Express Time News Hub** | We provide timely, reliable news on a user-friendly platform, engaging our audience with high-quality journalism. Stay informed and explore diverse topics through our commitment to excellence in reporting. | Completed | [https://express-times-newspapers.web.app](https://express-times-newspapers.web.app) |
+| **Explore Local Tours & Guide** | The purpose of the Explore Local Tour & Guide project is to provide a platform that connects tourists with local guides, offering a personalized and authentic experience of the destination. | Completed | [https://local-tours-and-guide-auth.web.app](https://local-tours-and-guide-auth.web.app) |
+| **E-Market Wave** | MarketHub, an innovative e-commerce platform, connects buyers and sellers with a diverse range of products. Our mission is to ensure secure transactions, foster trust, and empower businesses in the digital marketplace. | Completed | [https://retail-and-e-commerce-project.web.app/](https://retail-and-e-commerce-project.web.app/) |
+| **Personal Website Development** | A portfolio is a dynamic platform showcasing projects, emphasizing skills, and building a personal brand. It serves as a contact point for networking, allowing collaboration discovery. | Ongoing | [https://my-portfolio-three-ruddy-44.vercel.app/](https://my-portfolio-three-ruddy-44.vercel.app/) |
 
-### 🚀 Featured Projects
 
-| Project | Description | Tech Stack | Status | Live Link |
-| :--- | :--- | :--- | :--- | :--- |
-| **OREBI** | Full-stack e-commerce platform with real-time notifications, caching, and Stripe checkout. | React, Redux Toolkit, Tailwind, NestJS, PostgreSQL, Prisma, Redis | Ongoing | *Link Adding Soon* |
-| **Custom Wix Solutions** | Bespoke client portals, dynamic CMS filtering, and responsive UI architectures. | Wix Studio, Wix Classic, Wix Harmony, Wix Velo, REST APIs | Completed | *Client Projects* |
-| **MealMetric** | Automated dining and mess expense management system with dynamic cost calculation. | JavaScript, HTML5, CSS3, Responsive UI | Completed | *Link Adding Soon* |
+# 📊 My GitHub Stats:
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedraza069&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedraza069&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmedraza069&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedraza069&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmedraza069&theme=radical&utcOffset=8)
 
----
+## 🏆 My GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ahmedraza069&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 
-### 📊 My GitHub Stats
+### ✍️ Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ahmedraza069&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
----
-
-### 🏆 My GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
----
-
-### 💬 Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/Raza"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Raza" /></a></p><br><br>
