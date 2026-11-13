@@ -1,15 +1,15 @@
 <p align="center">
-<img src="https://storage.ghost.io/c/fa/4e/fa4e2ca2-663c-4ecf-881c-8bc3979ba16b/content/images/size/w2000/2024/03/web3.gif" width="100%" alt="MasterHead">
+  <img src="https://storage.ghost.io/c/fa/4e/fa4e2ca2-663c-4ecf-881c-8bc3979ba16b/content/images/size/w2000/2024/03/web3.gif" width="100%" alt="MasterHead">
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Rakibul Hasan Raza</h1>
-<h3 align="justify">Wix Specialist, AI-Driven Developer & Front-End Executive @ Softvence Agency | B.Sc. in CSE</h3>
+<h3 align="center">Wix Specialist, AI-Driven Developer & Front-End Executive @ Softvence Agency | B.Sc. in CSE</h3>
 
 <p align="justify">
 I am a passionate <b>Wix Specialist</b> and <b>AI-Powered Front-End Developer</b> from Bangladesh with deep expertise in <b>Wix Studio, Wix Classic, Wix Harmony, and Wix Full Custom Projects (Velo)</b>. As an <b>AI Expert</b> in web development workflows, I leverage advanced AI tools and prompt engineering to architect, code, and deploy complex, full-scale custom projects with speed and precision. Alongside my core expertise, I am actively learning and exploring <b>Next.js, React.js, and modern Full-Stack technologies</b> to continuously expand my development capabilities.
 </p>
 
-<p align="justify">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=ahmedraza069&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="ahmedraza069" />
   <a href="https://twitter.com/ahmedraza_069" target="_blank">
     <img src="https://img.shields.io/twitter/follow/ahmedraza_069?logo=twitter&style=for-the-badge" alt="ahmedraza_069" />
@@ -25,8 +25,6 @@ I am a passionate <b>Wix Specialist</b> and <b>AI-Powered Front-End Developer</b
 - 🌐 Portfolio & Experiences: [my-portfolio-three-ruddy-44.vercel.app](https://my-portfolio-three-ruddy-44.vercel.app/)
 - 💬 Ask me about **Wix Studio, Wix Velo, AI-Powered Web Development & Custom Front-End Design**
 - 📫 Reach me at **rakibulhasanraza@gmail.com**
-
-<br clear="both"/>
 
 ---
 
@@ -73,19 +71,10 @@ I am a passionate <b>Wix Specialist</b> and <b>AI-Powered Front-End Developer</b
 
 <div align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedraza069&theme=radical" alt="Profile Details" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedraza069&theme=radical" alt="Top Languages by Repo" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmedraza069&theme=radical" alt="Top Languages by Commit" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedraza069&theme=radical" alt="Stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmedraza069&theme=radical&utcOffset=6" alt="Productive Time" />
-</div>
-
-<div align="center">
+  <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmedraza069&theme=radical" alt="Top Languages by Repo" />
+  <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmedraza069&theme=radical" alt="Top Languages by Commit" />
+  <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmedraza069&theme=radical" alt="Stats" />
+  <img width="49.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmedraza069&theme=radical&utcOffset=6" alt="Productive Time" />
   <img width="100%" src="https://streak-stats.demolab.com?user=ahmedraza069&theme=radical&hide_border=true&card_width=850" alt="GitHub Streak" />
 </div>
 
@@ -93,9 +82,9 @@ I am a passionate <b>Wix Specialist</b> and <b>AI-Powered Front-End Developer</b
 
 ## 🏆 My GitHub Trophies:
 
-<p align="left">
-  <img width="98%" src="https://github-trophies.vercel.app/?username=ahmedraza069&theme=radical&no-frame=true&no-bg=false&margin-w=14&margin-h=14&row=1&column=7" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <img width="100%" src="https://github-trophies.vercel.app/?username=ahmedraza069&theme=radical&no-frame=true&no-bg=false&margin-w=14&margin-h=14&row=1&column=7" alt="GitHub Trophies" />
+</div>
 
 ---
 
