@@ -93,47 +93,11 @@ I am a passionate <b>Wix Specialist</b> and <b>AI-Powered Front-End Developer</b
 
 ---
 
-## 🏆 My GitHub Trophies & Milestones:
-
-<div align="center">
-  <img width="100%" src="https://github-trophies.vercel.app/?username=ahmedraza069&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
 ## 🏆 My GitHub Trophies:
 
-<div align="center">
-  <img width="100%" src="https://github-trophies.vercel.app/?username=ahmedraza069&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
-<table width="100%">
-  <tr align="left">
-    <td width="20%">
-      <b>🏆 Repositories</b><br/><br/>
-      <img src="https://img.shields.io/badge/100%2B_Repos-S_Rank-fe428e?style=for-the-badge&labelColor=141321" alt="Repos Trophy"/><br/>
-      <img src="https://img.shields.io/badge/Progress-██████████_100%25-fe428e?style=flat-square&labelColor=141321" alt="Repos Chart"/>
-    </td>
-    <td width="20%">
-      <b>🔥 Contributions</b><br/><br/>
-      <img src="https://img.shields.io/badge/460%2B_Total-A_Rank-f8d847?style=for-the-badge&labelColor=141321" alt="Contributions Trophy"/><br/>
-      <img src="https://img.shields.io/badge/Activity-█████████░_90%25-f8d847?style=flat-square&labelColor=141321" alt="Contributions Chart"/>
-    </td>
-    <td width="20%">
-      <b>⚡ Commits</b><br/><br/>
-      <img src="https://img.shields.io/badge/300%2B_Commits-A_Rank-a9fef7?style=for-the-badge&labelColor=141321" alt="Commits Trophy"/><br/>
-      <img src="https://img.shields.io/badge/Consistency-████████░_85%25-a9fef7?style=flat-square&labelColor=141321" alt="Commits Chart"/>
-    </td>
-    <td width="20%">
-      <b>⭐ Stars Earned</b><br/><br/>
-      <img src="https://img.shields.io/badge/39%2B_Stars-B_Rank-fe428e?style=for-the-badge&labelColor=141321" alt="Stars Trophy"/><br/>
-      <img src="https://img.shields.io/badge/Impact-███████░░░_75%25-fe428e?style=flat-square&labelColor=141321" alt="Stars Chart"/>
-    </td>
-    <td width="20%">
-      <b>🎖️ Experience</b><br/><br/>
-      <img src="https://img.shields.io/badge/4%2B_Years-Veteran-f8d847?style=for-the-badge&labelColor=141321" alt="Experience Trophy"/><br/>
-      <img src="https://img.shields.io/badge/Mastery-██████████_95%25-f8d847?style=flat-square&labelColor=141321" alt="Experience Chart"/>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img width="98%" src="https://github-trophies.vercel.app/?username=ahmedraza069&theme=radical&no-frame=true&no-bg=false&margin-w=14&margin-h=14&row=1&column=7" alt="GitHub Trophies" />
+</p>
 
 ---
 
