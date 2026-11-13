@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://static.wixstatic.com/media/5e2951_3dbfebba02a64b4bbbf66ac51a201508~mv2.gif" width="100%" alt="MasterHead">
+<img src="https://storage.ghost.io/c/fa/4e/fa4e2ca2-663c-4ecf-881c-8bc3979ba16b/content/images/size/w2000/2024/03/web3.gif" width="100%" alt="MasterHead">
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Rakibul Hasan Raza</h1>
